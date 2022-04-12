@@ -3,8 +3,8 @@
 Created as a place for colleagues to practice using Git in order to work on (Docs as Code) documentation with engineers. This can all be done on the command line (CLI), too. It's good to learn that overall, especially if you're working on lots of documents in a single repo. For now, I'm going to show you on the GitHub interface, so you can understand the concepts. 
 
 ### Steps to Edit or Create Documentation
-1. Fork this repo. Upper right corner of this page, click on "Fork." Now you have a copy of this repo in your own GitHub. Go look for that now. A copy of this README will be there as well as everything else in the repo. 
-2. Make a branch. This is so you don't mess up the "main" branch (sometimes called "master" branch), which is the *live* branch. Any changes you make won't show up on the main branch until the maintainers merge your branch. 
+1. **Fork this repo**. Upper right corner of this page, click on "Fork." Now you have a copy of this repo in your own GitHub. Go look for that now. A copy of this README will be there as well as everything else in the repo. 
+2. **Make a branch**. This is so you don't mess up the "main" branch (sometimes called "master" branch), which is the *live* branch. Any changes you make won't show up on the main branch until the maintainers merge your branch. 
   - Click on where you see "Main" on the left above, then name your branch by typing in the "Find or create branch..." field.
 
 ![Create a Branch](https://github.com/christinerose/PracticeRepo/blob/main/Images/branch.png)
@@ -18,7 +18,9 @@ Created as a place for colleagues to practice using Git in order to work on (Doc
 
 ![Create a Branch](https://github.com/christinerose/PracticeRepo/blob/main/Images/branch3.png)
 
-3. Make your changes. Most documentation on GitHub is written in Markdown, a relatively-simple language. Familiarize yourself with it and use this [cheetsheet](https://www.markdownguide.org/cheat-sheet/) for help. You will find the documentation and other content under "code" in the very-top left, under the repo's name. (Not the green button called "Code" on the right. That's for cloning your repo to a local machine using the CLI or a different app.
+3. **Make your changes**. Most documentation on GitHub is written in Markdown, a relatively-simple language. Familiarize yourself with it and use this [cheetsheet](https://www.markdownguide.org/cheat-sheet/) for help. You will find the documentation and other content under "code" in the very-top left, under the repo's name. (Not the green button called "Code" on the right. That's for cloning your repo to a local machine using the CLI or a different app.
+
+#### Coming soon: steps to make a Pull Request and Issue, which will be different files in the repo
 
 ---
 
