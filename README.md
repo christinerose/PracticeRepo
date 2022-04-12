@@ -20,7 +20,7 @@ Created as a place for colleagues to practice using Git in order to work on (Doc
 
 3. **Make your changes**. Most documentation on GitHub is written in Markdown, a relatively-simple language. Familiarize yourself with it and use this [cheetsheet](https://www.markdownguide.org/cheat-sheet/) for help. You will find the documentation and other content under "code" in the very-top left, under the repo's name. (Not the green button called "Code" on the right. That's for cloning your repo to a local machine using the CLI or a different app.
 
-#### Coming soon: steps to make a Pull Request and Issue, which will be different files in the repo
+#### Coming soon: steps to make a Pull Request and open Issues, which will be different files in the repo rather than in the body of this ReadMe. I'll link to them here, though. 
 
 ---
 
