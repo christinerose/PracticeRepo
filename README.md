@@ -7,19 +7,21 @@ Created as a place for colleagues to practice using Git in order to work on (Doc
 2. Make a branch. This is so you don't mess up the "main" branch (sometimes called "master" branch), which is the *live* branch. Any changes you make won't show up on the main branch until the maintainers merge your branch. 
   - Click on where you see "Main" on the left above, then name your branch by typing in the "Find or create branch..." field.
 
-![Create a Branch](http://url/to/img.png)
+![Create a Branch](https://github.com/christinerose/PracticeRepo/blob/main/Images/branch.png)
 
   - Name it with something short & relevant to the changes you're making.
   - Once you type in the name, it will appear right below. Click on that to create it. 
 
-![Create a Branch](http://url/to/img.png)
+![Create a Branch](https://github.com/christinerose/PracticeRepo/blob/main/Images/branch2.png)
 
   - Navigate to it in that dropdown menu if it doesn't directly take you there, which it should. Just ensure you're on the correct branch when you're working. 
 
-![Create a Branch](http://url/to/img.png)
+![Create a Branch](https://github.com/christinerose/PracticeRepo/blob/main/Images/branch3.png)
 
 3. Make your changes. Most documentation on GitHub is written in Markdown, a relatively-simple language. Familiarize yourself with it and use this [cheetsheet](https://www.markdownguide.org/cheat-sheet/) for help. You will find the documentation and other content under "code" in the very-top left, under the repo's name. (Not the green button called "Code" on the right. That's for cloning your repo to a local machine using the CLI or a different app.
 
-Formerly called:
-**IssueTestRepo**
+---
+
+Formerly called: **IssueTestRepo**
+
 Testing ways to enable engineers to submit issues for writing requests. My team found it to be a good way to track writing projects. We'll be going over that in this repo as well. 
