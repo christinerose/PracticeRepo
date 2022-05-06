@@ -8,7 +8,7 @@ Most engineers manage their repos through PRs. This is how contributors can make
   
 Click on it, and it will take you to the main repo to commit. 
   1. Write a brief, helpful description of the changes
-  2. Click commit
+  2. Click "Open Pull Request"
 
 ![Commit](https://github.com/christinerose/PracticeRepo/blob/main/Images/PR2.png)
 
