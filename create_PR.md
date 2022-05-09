@@ -1,6 +1,6 @@
 # Working with Pull Requests (PR)
 
-### How to Create a PR
+## How to Create a PR
 Most engineers manage their repos through PRs. This is how contributors can make suggestions or contributions without committing directly to the main branch, aka *the source of all truth*. In the [ReadMe](https://github.com/christinerose/PracticeRepo), you learned how to fork and branch within the GitHub interface. Once you make your changes, you will see a big green button like this:
 
 ![Create Pull Request](https://github.com/christinerose/PracticeRepo/blob/main/Images/PR1.png)
@@ -17,9 +17,9 @@ Click on it, and it will take you to the main repo to commit.
   
   Voilà! You've created a PR!
   
-  ### How to Collaborate in a PR
+  ## How to Collaborate in a PR
   
-  #### Notifications
+  ### Notifications
   After you create your PR, you'll know when someone has commented or made suggestions through your **Notifications**. In the top right of your screen, you'll see a little bell icon to the left of your profile picture:
   
   ![Notification Bell](https://github.com/christinerose/PracticeRepo/blob/main/Images/notifications.png)
@@ -35,7 +35,7 @@ Click on it, and it will take you to the main repo to commit.
   Click the check mark to the right, as shown above, when you've addressed that PR. This marks it DONE. Then it disappears from your notifications. 
   
   
-  #### Suggestions & Communication
+  ### Suggestions & Communication
   After you click on the PR you'd like to review, it will take to you a page that looks like this:
   
   ![PR Page](https://github.com/christinerose/PracticeRepo/blob/main/Images/notifications3.png)
@@ -56,24 +56,24 @@ Click on it, and it will take you to the main repo to commit.
   
   Finlly, click on the green "Start a review" button, which saves your comment/suggestions.
   
-  #### Submit Your Review
+  ### Submit Your Review
   There is a final step that's not always noticeable! It's easy to miss!
   
   At the top right, you'll see another green button:
   
    ![Add A Review](https://github.com/christinerose/PracticeRepo/blob/main/Images/review.png) 
    
-  Write your review message, if you have one. It's good to summarise what you've done. 
+  Write a message, as it's good to summarise what you've done. 
   
   To submit, you have three choices:
   - Comment
   - Approve
   - Request Changes
 
-  The comment is just that, a comment. No further action needed. 
+  The "Comment" option is just that, a comment. No further action needed. 
   
-  If you choose "Approve," you approve merging the document without any changes necessary, even if you've made suggestions. 
+  If you choose "Approve," you approve merging the document even if they don't accept your changes or suggestions. 
   
-  "Request Changes" means those changes must be addressed before anyone can merge the PR to the main branch.
+  "Request Changes" means those changes/suggestions must be addressed before anyone can merge the PR to the main branch.
 
   
