@@ -48,9 +48,9 @@ Click on it, and it will take you to the main repo to commit.
   
   ![Suggest Changes](https://github.com/christinerose/PracticeRepo/blob/main/Images/suggestions.png)
   
-  Mouse over the + signs down the left column until it turns blue, as shown, next to the line you wish to address. You can either leave a normal comment here, asking a question or just making a broad suggestions, or you can click on the icon circled. 
+  Mouse over the + signs down the left column until it turns blue, as shown, next to the line you wish to address. You can either leave a normal comment here, asking a question or just making a broad suggestions, or you can click on the icon circled above. 
   
-  That little paper icon with the + inside enables you to make suggested changes. It copies the line in the comment box. Make your suggested changes there. Write any comments or explanation you have about your suggestion beneath those botton three backticks. `[```]`
+  That little paper icon with the + inside enables you to make suggested changes. It copies the line in the comment box. Then make your suggested changes directly in the copied text. Write any comments or explanation you have about your suggestion beneath those bottom three backticks. `[```]`
   
   To comment on or make suggests for multiple lines, click the blue + and drag it over the lines you wish to address. 
   
